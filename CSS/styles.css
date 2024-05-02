@@ -1,0 +1,33 @@
+#footer2 {
+    padding: 0px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.colorr {
+    background-color: pink;
+}
+
+.colorrr {
+    background-color: aquamarine;
+}
+
+.fooo {
+    border-radius: 100%;
+}
+
+.card {
+    margin-bottom: 20px; /* Agrega un margen inferior para separar las tarjetas */
+}
+
+body {
+    background-color: aquamarine;
+}
+
+#logotipo{
+    width: 350px;
+    height: 85px;
+}
+
